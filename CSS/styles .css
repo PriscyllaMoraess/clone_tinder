@@ -36,7 +36,7 @@ body{
 .photo{
     width: 98vw;
     height: 85vh;
-    background: url('/img/pexels-ilya-komov-10146096.jpg') center center/cover;
+    background: url('../img/pexels-ilya-komov-10146096.jpg') center center/cover;
     border-radius: 10px;
     display: flex;
     align-items: flex-end;
